@@ -1,0 +1,15 @@
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/bin/Debug/net8.0/OriginalAdapter
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/bin/Debug/net8.0/OriginalAdapter.deps.json
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/bin/Debug/net8.0/OriginalAdapter.runtimeconfig.json
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/bin/Debug/net8.0/OriginalAdapter.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/bin/Debug/net8.0/OriginalAdapter.pdb
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/OriginalAdapter.GeneratedMSBuildEditorConfig.editorconfig
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/OriginalAdapter.AssemblyInfoInputs.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/OriginalAdapter.AssemblyInfo.cs
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/OriginalAdapter.csproj.CoreCompileInputs.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/OriginalAdapter.sourcelink.json
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/OriginalAdapter.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/refint/OriginalAdapter.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/OriginalAdapter.pdb
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/OriginalAdapter.genruntimeconfig.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/OriginalAdapter/obj/Debug/net8.0/ref/OriginalAdapter.dll
