@@ -1,0 +1,14 @@
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/bin/Debug/net8.0/GeoDataAdapter
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/bin/Debug/net8.0/GeoDataAdapter.deps.json
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/bin/Debug/net8.0/GeoDataAdapter.runtimeconfig.json
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/bin/Debug/net8.0/GeoDataAdapter.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/bin/Debug/net8.0/GeoDataAdapter.pdb
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/obj/Debug/net8.0/GeoDataAdapter.GeneratedMSBuildEditorConfig.editorconfig
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/obj/Debug/net8.0/GeoDataAdapter.AssemblyInfoInputs.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/obj/Debug/net8.0/GeoDataAdapter.AssemblyInfo.cs
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/obj/Debug/net8.0/GeoDataAdapter.csproj.CoreCompileInputs.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/obj/Debug/net8.0/GeoDataAdapter.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/obj/Debug/net8.0/refint/GeoDataAdapter.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/obj/Debug/net8.0/GeoDataAdapter.pdb
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/obj/Debug/net8.0/GeoDataAdapter.genruntimeconfig.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/GeoDataAdapter/obj/Debug/net8.0/ref/GeoDataAdapter.dll
