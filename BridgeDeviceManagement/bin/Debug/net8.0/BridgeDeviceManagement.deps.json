@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BridgeDeviceManagement/1.0.0": {
+        "runtime": {
+          "BridgeDeviceManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BridgeDeviceManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

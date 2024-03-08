@@ -1,0 +1,15 @@
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/bin/Debug/net8.0/BridgeDeviceManagement
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/bin/Debug/net8.0/BridgeDeviceManagement.deps.json
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/bin/Debug/net8.0/BridgeDeviceManagement.runtimeconfig.json
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/bin/Debug/net8.0/BridgeDeviceManagement.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/bin/Debug/net8.0/BridgeDeviceManagement.pdb
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/BridgeDeviceManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/BridgeDeviceManagement.AssemblyInfoInputs.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/BridgeDeviceManagement.AssemblyInfo.cs
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/BridgeDeviceManagement.csproj.CoreCompileInputs.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/BridgeDeviceManagement.sourcelink.json
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/BridgeDeviceManagement.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/refint/BridgeDeviceManagement.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/BridgeDeviceManagement.pdb
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/BridgeDeviceManagement.genruntimeconfig.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/BridgeDeviceManagement/obj/Debug/net8.0/ref/BridgeDeviceManagement.dll
