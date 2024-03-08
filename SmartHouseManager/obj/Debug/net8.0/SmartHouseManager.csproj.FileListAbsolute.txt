@@ -1,0 +1,15 @@
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/bin/Debug/net8.0/SmartHouseManager
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/bin/Debug/net8.0/SmartHouseManager.deps.json
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/bin/Debug/net8.0/SmartHouseManager.runtimeconfig.json
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/bin/Debug/net8.0/SmartHouseManager.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/bin/Debug/net8.0/SmartHouseManager.pdb
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/SmartHouseManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/SmartHouseManager.AssemblyInfoInputs.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/SmartHouseManager.AssemblyInfo.cs
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/SmartHouseManager.csproj.CoreCompileInputs.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/SmartHouseManager.sourcelink.json
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/SmartHouseManager.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/refint/SmartHouseManager.dll
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/SmartHouseManager.pdb
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/SmartHouseManager.genruntimeconfig.cache
+/home/nurlykhan/RiderProjects/DesignPatterns/SmartHouseManager/obj/Debug/net8.0/ref/SmartHouseManager.dll
